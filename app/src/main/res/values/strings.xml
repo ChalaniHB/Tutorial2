@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">IntentsProj</string>
+    <string name="name">number 1</string>
+    <string name="Number1" />
+    <string name="name1">Number1</string>
+    <string name="nam">Number2</string>
+    <string name="nam1">ok</string>
+    <string name="nam3">Number1</string>
+    <string name="nam4">Number2</string>
+    <string name="nam5">+</string>
+    <string name="nam6">-</string>
+    <string name="nam7">*</string>
+    <string name="nam8">/</string>
+</resources>

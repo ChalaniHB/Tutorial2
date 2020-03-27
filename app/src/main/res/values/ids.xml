@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="id_value1" type="id">id_value1</item>
+    <item name="id_value2" type="id">id_value2</item>
+    <item name="id_ans" type="id">id_ans</item>
+    <item name="id_input1" type="id">id_input1</item>
+    <item name="id_input2" type="id">id_input2</item>
+    <item name="id_btn_ok" type="id">id_btn_ok</item>
+    <item name="custom_toast_layout" type="id">custom_toast_layout</item>
+    <item name="id_btn_calculator" type="id">id_btn_calculator</item>
+</resources>
